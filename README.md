@@ -12,4 +12,4 @@ Proyek ini merupakan bagian dari:
 🧑‍💻 Kontributor
 Nama : Suci Ramadhani Lubis
 GitHub : https://github.com/Suciramalubis/
-LinkedIn : 
+LinkedIn : https://www.linkedin.com/in/suci-ramadhani-lubis
